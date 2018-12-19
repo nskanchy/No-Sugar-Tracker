@@ -7,6 +7,7 @@ body {
 button,
 button:focus {
 	touch-action: manipulation;
-	color:red; background-color: green
-	;
+	color:yellow; background-color: blue
+
+	; font-weight: bolder;
 }
