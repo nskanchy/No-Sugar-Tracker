@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	margin-top: 300px;
+	color:blue;
+}
+
+button,
+button:focus {
+	touch-action: manipulation;
+	color:red; background-color: green
+	;
+}
